@@ -61,3 +61,6 @@ All tests used 360Hz with DSC off
 ![Picture1](https://github.com/fr33thytweaks/Nvidia-Legacy-Sharpen/assets/168888348/a703040f-8717-4082-9915-697dbe466e9e)
 
 ## Video
+[Video](<https://youtu.be/KzVQL117-E0>)
+
+[![Video](https://img.youtube.com/vi/KzVQL117-E0/maxresdefault.jpg)]([https://www.youtube.com/watch?v=KzVQL117-E0](https://youtu.be/KzVQL117-E0))
