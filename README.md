@@ -18,7 +18,7 @@ This is the same as FidelityFX CAS Sharpening, which is built into some game set
 - Nvidia Image Scaling "NIS" sharpening significantly ruins image quality, forcing a lower resolution.
  <br> NIS also forces GPU scaling, which increases latency.
 
-Legacy sharpen enables you to enhance the game's sharpness through display scaling, resulting in minimal impact on framerate and latency, and without any loss in image quality.
+Legacy sharpen enables you to enhance the game's sharpness through display scaling, resulting in minimal impact on framerate and latency, and without any loss in image quality. Use Legacy Sharpen if FidelityFX CAS Sharpening is unavailable in the game.
 
 ## Note
 Display Stream Compression "DSC" monitors should already have this option unlocked.
@@ -26,6 +26,9 @@ Display Stream Compression "DSC" monitors should already have this option unlock
 Some DX12 games may require the shader cache files to be deleted before legacy sharpening optimization is applied.
 Another way to force game shaders to reload, you can update your graphics driver. Ensure you apply the sharpen optimization before launching the game.
 Legacy sharpening is baked into the DX12 shaders, so if the game shaders have already been loaded before the optimization is applied, you may see artifacts.
+
+![Artifacts Comparison](https://github.com/fr33thytweaks/Nvidia-Legacy-Sharpen/assets/168888348/ce734f29-b4bd-4b19-9d7f-d64d70eaed89)
+
 
 ## Comparisons
 
